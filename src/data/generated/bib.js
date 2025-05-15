@@ -4,7 +4,7 @@
         "author": "Swarit Anand Singh, KA Desai",
         "doi": "10.1007/s10845-021-01878-w",
         "journal": "Journal of Intelligent Manufacturing",
-        "keywords": "type: research paper, cnn, svm, resnet, machine-vision",
+        "keywords": "type: researchh paper, cnn, svm, resnet, machine-vision",
         "number": "08",
         "pages": "1995 - 2011",
         "publisher": "Springer",
